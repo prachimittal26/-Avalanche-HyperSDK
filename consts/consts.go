@@ -13,11 +13,11 @@ import (
 
 const (
 	
-	HRP = "PrachiMittal"
+	HRP = "PrachiSchain"
 	
-	Name = "Prachim"
+	Name = "prachi"
 	
-	Symbol = "PM"
+	Symbol = "MSN"
 )
 
 
